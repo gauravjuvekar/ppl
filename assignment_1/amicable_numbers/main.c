@@ -21,10 +21,7 @@ int sum_divs(int num) {
 }
 
 
-int main(int argc, char *argv[]) {
-	(void)argc;
-	(void)argv;
-
+int main() {
 	int sum_divs_1k[UPPER_LIMIT + 1];
 	int i;
 
