@@ -1,0 +1,14 @@
+String format "4-7,9,12,15" represents page numbers.
+Find numbers missing in the list for a given range (assume sorted input)
+
+Write a program to perform various operations on complex variables
+
+Write a program to copy contents of file_1 to file_2.
+
+Write a program to read a file containing names and marks (out of 100) for n
+students. Find the count of students scoring marks above 70. Also find the total
+number of students for all unique marks.
+
+Write a program to print a pattern (Pascals triangle) using list.
+
+Write a program to swap two numbers using a function. Return as swapped tuple.
